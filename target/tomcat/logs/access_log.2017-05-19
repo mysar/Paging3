@@ -1,0 +1,9 @@
+127.0.0.1 - - [19/May/2017:08:21:27 +0800] "GET / HTTP/1.1" 200 219 http-bio-80-exec-1 79
+127.0.0.1 - - [19/May/2017:08:21:27 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-80-exec-3 505
+127.0.0.1 - - [19/May/2017:08:21:29 +0800] "GET / HTTP/1.1" 200 219 http-bio-80-exec-5 2
+127.0.0.1 - - [19/May/2017:08:21:32 +0800] "GET /home HTTP/1.1" 200 5110 http-bio-80-exec-7 1788
+127.0.0.1 - - [19/May/2017:08:21:32 +0800] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 122540 http-bio-80-exec-8 14
+127.0.0.1 - - [19/May/2017:08:21:32 +0800] "GET /static/js/jquery-1.11.3.min.js HTTP/1.1" 200 95957 http-bio-80-exec-6 31
+127.0.0.1 - - [19/May/2017:08:21:32 +0800] "GET /static/js/jquery.twbsPagination.min.js HTTP/1.1" 200 5277 http-bio-80-exec-9 2
+127.0.0.1 - - [19/May/2017:08:22:13 +0800] "GET /home?p=2 HTTP/1.1" 200 5096 http-bio-80-exec-2 25
+127.0.0.1 - - [19/May/2017:08:22:16 +0800] "GET /home?p=3 HTTP/1.1" 200 3391 http-bio-80-exec-5 5
